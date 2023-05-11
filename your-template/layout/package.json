@@ -1,0 +1,21 @@
+{
+  "name": "proxy-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev:bitrix": " vite --config vite.bitrix.config.js",
+    "build:bitrix": "vite build --config vite.bitrix.config.js"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "sass": "^1.62.1",
+    "vite": "^4.3.2",
+    "vite-plugin-live-reload": "^3.0.2"
+  }
+}

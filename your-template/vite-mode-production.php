@@ -1,1 +1,2 @@
 <?php
+const isDev = false;

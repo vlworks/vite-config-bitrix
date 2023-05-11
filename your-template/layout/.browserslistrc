@@ -1,0 +1,12 @@
+>0.3%
+Chrome >= 92
+Edge >= 92
+Firefox >= 90
+Opera >= 77
+Safari >= 12
+ChromeAndroid >= 92
+ios_saf >= 12
+not IE <= 11
+not ie_mob <= 11
+not op_mini all
+not dead
